@@ -23,11 +23,11 @@ The project features a **unique, vibrant dark theme** and a public-facing entry 
 
 | Page | Description | Visual Reference |
 | :--- | :--- | :--- |
-| **Landing Page** | The public entrance showing the vibrant aesthetic and unique structure. | ![Landing Page Screenshot](https://www.youtube.com/watch?v=Mwuabp4TCPc) |
-| **Dashboard** | The main user area, highlighting **Lessons Completed**, **Key Stats**, and **Progress Bars**. | ![Dashboard Screenshot](https://www.scribd.com/document/847764458/Screenshot-2025-04-08-4-03-11-PM-png) |
-| **Courses Page** | Course catalog featuring **category filtering** and **glowing cards**. | ![Courses Page Screenshot](https://www.scribd.com/document/852950176/Screenshot-2025-02-21-at-12-58-52-PM) |
-| **Profile Page** | User summary, persistent avatar area, and progress breakdown. | ![Profile Page Screenshot](https://www.scribd.com/document/860974975/Screenshot-2025-05-13-at-12-59-20-a-m-png) |
-| **Signup Page** | Clean, dark-mode signup form. | ![Signup Page Screenshot](https://www.youtube.com/watch?v=Mwuabp4TCPc) |
+| **Landing Page** | The public entrance showing the vibrant aesthetic and unique structure. | ![Landing Page Screenshot](https://github.com/Prasanna-S-1/Student-skill-learningg-portal/blob/main/assets/Screenshot%202025-12-05%20115438.png?raw=true) |
+| **Dashboard** | The main user area, highlighting **Lessons Completed**, **Key Stats**, and **Progress Bars**. | ![Dashboard Screenshot](https://github.com/Prasanna-S-1/Student-skill-learningg-portal/blob/main/assets/Screenshot%202025-12-05%20115620.png?raw=true) |
+| **Courses Page** | Course catalog featuring **category filtering** and **glowing cards**. | ![Courses Page Screenshot](https://github.com/Prasanna-S-1/Student-skill-learningg-portal/blob/main/assets/Screenshot%202025-12-05%20115631.png?raw=true) |
+| **Profile Page** | User summary, persistent avatar area, and progress breakdown. | ![Profile Page Screenshot](https://github.com/Prasanna-S-1/Student-skill-learningg-portal/blob/main/assets/Screenshot%202025-12-05%20115641.png?raw=true) |
+| **Signup Page** | Clean, dark-mode signup form. | ![Signup Page Screenshot](https://github.com/Prasanna-S-1/Student-skill-learningg-portal/blob/main/assets/Screenshot%202025-12-05%20115520.png?raw=true) |
 
 ## 🛠️ Steps to Run Locally
 
