@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "category": "HTML",
+    "title": "HTML Basics: Structure and Semantics",
+    "duration": "2h 15m",
+    "description": "Learn the structure of web pages and master semantic HTML.",
+    "summary": "This foundational course covers all essential HTML5 tags, including forms, tables, and modern semantic elements like <header> and <footer>. You'll build the structural backbone of any modern website.",
+    "video": "https://www.youtube.com/embed/qz0aGYrrlhU?rel=0"
+  },
+  {
+    "id": 102,
+    "category": "CSS",
+    "title": "CSS Fundamentals: Styling and Layouts",
+    "duration": "3h 45m",
+    "description": "Master styling and create beautiful layouts with CSS.",
+    "summary": "Dive into CSS. Understand selectors, the box model, inheritance, and crucial layout methods like Flexbox.",
+    "video": "https://www.youtube.com/embed/OXGznpKZ_sA?rel=0"
+  },
+  {
+    "id": 103,
+    "category": "JavaScript",
+    "title": "JavaScript Essentials: Interactivity",
+    "duration": "4h",
+    "description": "Unlock interactivity with core JavaScript programming.",
+    "summary": "Learn variables, arrays, loops, conditionals, functions, and DOM manipulation.",
+    "video": "https://www.youtube.com/embed/W6NZfCO5SIk?rel=0"
+  },
+  {
+    "id": 104,
+    "category": "React",
+    "title": "React Fundamentals: Component Architecture",
+    "duration": "5h 10m",
+    "description": "Build modern applications using React.",
+    "summary": "Understand Components, Props, State, and how to structure a modern SPA.",
+    "video": "https://www.youtube.com/embed/DLX62G4lc44?rel=0"
+  },
+  {
+    "id": 105,
+    "category": "CSS",
+    "title": "Advanced CSS Grid Layout",
+    "duration": "2h 30m",
+    "description": "Create complex responsive layouts with CSS Grid.",
+    "summary": "Master CSS Grid: grid-template-areas, implicit grids, and responsive design.",
+    "video": "https://www.youtube.com/embed/rg7Fvvl3taU?rel=0"
+  },
+  {
+    "id": 106,
+    "category": "React",
+    "title": "React Hooks Deep Dive",
+    "duration": "3h",
+    "description": "Master React Hooks for state and effects.",
+    "summary": "Understand useState, useEffect, useContext, and custom hooks.",
+    "video": "https://www.youtube.com/embed/Tn6-PIqc4UM?rel=0"
+  },
+  {
+    "id": 107,
+    "category": "JavaScript",
+    "title": "JavaScript Async Programming",
+    "duration": "3h",
+    "description": "Master asynchronous JavaScript with Promises and Async/Await.",
+    "summary": "Learn how to handle non-blocking operations and fetch API data.",
+    "video": "https://www.youtube.com/embed/PoRJizFvM7s?rel=0"
+  },
+  {
+    "id": 108,
+    "category": "HTML",
+    "title": "Responsive Web Design",
+    "duration": "4h",
+    "description": "Build mobile-first responsive websites with media queries.",
+    "summary": "Learn media queries, fluid design, breakpoints, and responsive layouts.",
+    "video": "https://www.youtube.com/embed/srvUrASNj0s?rel=0"
+  }
+]
